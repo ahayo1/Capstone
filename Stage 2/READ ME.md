@@ -7,3 +7,7 @@ In the second part, students will:
 * update their P3
 
 YouTube Video Link: https://youtu.be/_9AgIxoxcTo
+
+Files in this Stage:
+* book_covers.csv: this contains a sample of 100 files with the new genre mapping; the official mapping for each genre is contained in the Jupyter Notebook
+* Jupyter Notebook: contains the code for this stage
