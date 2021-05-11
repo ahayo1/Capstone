@@ -9,3 +9,5 @@ Each stage represents a different part of the project.
 * Stage 2: https://youtu.be/_9AgIxoxcTo
 * Stage 3:
 * Google Site (might need UMBC account to access): https://sites.google.com/umbc.edu/ahayo1-capstone
+
+*Note: to view the PowerPoint, you will need to download the file.*
