@@ -1,5 +1,5 @@
 ## Different Stages
-Each stage represents a different part of the project.
+Each stage represents a different part of the project. The final Jupyter Notebook code is within the main Diretory, it is not within any of the Phase folders.
 * Phase 1: Project Pitch, Literature Review, and EDA
 * Phase 2: EDA and Model Construction
 * Phase 3: Execution and Interpretation
