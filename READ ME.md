@@ -7,8 +7,8 @@ Each stage represents a different part of the project. The final Jupyter Noteboo
 ## Important Links
 * Stage 1: https://youtu.be/CeDbHbOpkLI
 * Stage 2: https://youtu.be/_9AgIxoxcTo
-* Stage 3: https://youtu.be/IPIRyT9fMVo
-* Google Site (might need UMBC account to access): https://sites.google.com/umbc.edu/ahayo1-capstone
+* Stage 3: https://youtu.be/Rb-Z5kSlBFk
+* Full Walkthrough of Project: https://youtu.be/K3yZMmrFM4E 
 
 
 ## Code
